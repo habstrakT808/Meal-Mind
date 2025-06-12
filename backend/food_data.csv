@@ -1,0 +1,72 @@
+name,category,calories,protein,carbs,fat
+Nasi Gudeg + Telur,Breakfast,450,15,65,12
+Roti Bakar + Selai + Susu,Breakfast,320,12,45,10
+Bubur Ayam + Kerupuk,Breakfast,380,18,55,8
+Nasi Uduk + Ayam Goreng,Breakfast,520,25,60,18
+Lontong Sayur + Telur,Breakfast,350,14,50,9
+Oatmeal dengan Pisang,Breakfast,280,10,50,5
+Pancake dengan Madu,Breakfast,350,8,55,12
+Nasi Goreng,Breakfast,400,12,65,15
+Sereal dengan Susu,Breakfast,300,10,60,5
+Telur Dadar + Roti,Breakfast,320,22,25,18
+Sandwich Telur + Keju,Breakfast,380,20,30,18
+Yogurt dengan Granola,Breakfast,250,12,35,8
+Alpukat Tumbuk + Roti,Breakfast,350,8,25,25
+Pisang Goreng + Teh,Breakfast,280,4,55,10
+Ketupat Sayur,Breakfast,400,10,70,12
+Nasi + Ayam Bakar + Lalapan,Lunch,650,35,70,20
+Nasi + Rendang + Sayur,Lunch,720,30,75,25
+Nasi + Ikan Bakar + Tumis Kangkung,Lunch,580,32,65,18
+Nasi + Soto Ayam + Kerupuk,Lunch,620,28,70,22
+Nasi + Gado-gado + Kerupuk,Lunch,550,20,68,20
+Nasi + Pecel + Tempe,Lunch,520,20,65,18
+Mie Goreng + Telur,Lunch,580,20,80,22
+Nasi + Sayur Asem + Tempe Goreng,Lunch,500,15,75,15
+Nasi + Rawon + Telur,Lunch,600,25,70,18
+Nasi + Sate Ayam + Sambal Kacang,Lunch,680,30,75,22
+Bakso Kuah + Mie,Lunch,550,25,65,15
+Nasi + Gulai Ikan + Sayur,Lunch,580,28,60,20
+Nasi + Ayam Pop + Sayur,Lunch,620,35,65,18
+Nasi + Tahu Telor + Sambal,Lunch,500,22,65,16
+Nasi + Capcay Seafood,Lunch,520,25,60,15
+Nasi + Pecel Lele + Lalapan,Dinner,480,25,55,15
+Sandwich + Telur + Susu,Dinner,420,18,45,16
+Nasi + Ayam Geprek + Sayur,Dinner,520,30,58,18
+Mie Ayam + Pangsit + Bakso,Dinner,450,22,60,12
+Nasi + Tempe Goreng + Sayur Asem,Dinner,380,16,55,10
+Nasi + Tahu Telur + Oseng Kangkung,Dinner,420,20,50,18
+Nasi + Ikan Asin + Terong Balado,Dinner,400,15,60,12
+Nasi + Sup Ayam,Dinner,350,25,45,8
+Ketoprak + Teh Manis,Dinner,370,18,50,10
+Bihun Goreng + Kerupuk,Dinner,400,15,65,12
+Nasi + Ayam Rica-Rica + Sayur,Dinner,480,28,50,16
+Nasi + Cakalang Fufu + Tumis Kangkung,Dinner,450,30,48,14
+Nasi + Telur Balado + Sup,Dinner,380,18,55,12
+Lontong + Gulai Sayur,Dinner,400,12,65,12
+Nasi + Tongkol Balado + Tumis Kacang,Dinner,450,25,50,16
+Roti Kering + Susu,Snack,200,8,25,8
+Pisang + Yogurt,Snack,180,5,35,2
+Kacang Tanah Panggang,Snack,220,10,10,16
+Keripik Singkong,Snack,150,2,20,8
+Tempe Mendoan,Snack,180,8,15,10
+Ubi Rebus,Snack,120,2,28,0
+Telur Rebus,Snack,80,6,1,5
+Roti Panggang + Selai,Snack,140,4,25,3
+Jeruk Segar,Snack,70,1,18,0
+Keripik Tempe,Snack,160,10,14,8
+Burger Sapi + Kentang Goreng,Western,750,30,65,40
+Pizza Keju,Western,800,35,90,35
+Pasta Carbonara,Western,650,25,80,30
+Caesar Salad dengan Ayam,Western,420,35,15,22
+Sandwich Tuna,Western,450,28,40,18
+Steak Daging Sapi + Kentang,Western,650,40,30,35
+Fish & Chips,Western,700,32,70,35
+Burrito Bowl,Western,550,25,65,20
+Salad Sayur + Ayam Panggang,Healthy,350,30,20,15
+Bowl Quinoa + Salmon,Healthy,420,35,40,12
+Smoothie Bowl Buah,Healthy,320,12,55,8
+Oatmeal + Kacang + Buah,Healthy,380,15,60,10
+Wrap Hummus + Sayur,Healthy,340,12,45,12
+Buddha Bowl,Healthy,450,20,55,15
+Tumis Sayur + Tofu,Healthy,280,18,25,12
+Salad Kacang + Alpukat,Healthy,320,15,25,20
