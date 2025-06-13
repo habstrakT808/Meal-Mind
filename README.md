@@ -3,9 +3,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
-<p align="center">
-  <img src="docs/logo.png" alt="MealMind Logo" width="200" height="200" style="max-width: 100%;">
-</p>
+  ![image](https://github.com/user-attachments/assets/f0f91039-4e2a-4303-b995-c5eb2e4d33f8)
 
 ## 📋 Deskripsi
 
@@ -90,13 +88,12 @@ npm run dev
 
 ## 📷 Screenshots
 
-<div align="center">
-  <img src="docs/screenshot-dashboard.png" alt="Dashboard" width="45%">
-  <img src="docs/screenshot-meal-plan.png" alt="Meal Planning" width="45%">
-  <br><br>
-  <img src="docs/screenshot-progress.png" alt="Progress Tracking" width="45%">
-  <img src="docs/screenshot-recommendations.png" alt="Food Recommendations" width="45%">
-</div>
+![image](https://github.com/user-attachments/assets/fbbdb4cd-e6b0-4592-9411-d6347cbc9c8e) 
+![image](https://github.com/user-attachments/assets/8cc8ab57-0243-4767-8987-49a114cf0008)
+![image](https://github.com/user-attachments/assets/6f61a460-7e28-4de0-8951-dc97e2bf7ca0)
+![image](https://github.com/user-attachments/assets/e999e09f-624b-48ff-ba6a-e5280b8376e1)
+![image](https://github.com/user-attachments/assets/e56ac9ab-d82d-4121-9f08-4cf32136e864)
+
 
 ## 🧪 Struktur Proyek
 
