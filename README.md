@@ -1,4 +1,4 @@
-# 🍽️ MealMind - Aplikasi Perencanaan Diet Cerdas
+# 🍽️ MealMind - Platform Perencanaan Diet Cerdas
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
