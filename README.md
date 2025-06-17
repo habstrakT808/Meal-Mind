@@ -7,7 +7,7 @@
 
 ## 📋 Deskripsi
 
-**MealMind** adalah aplikasi diet cerdas berbasis machine learning yang memberikan rekomendasi makanan, pelacakan nutrisi, dan saran aktivitas fisik secara personal sesuai kebutuhan dan preferensi pengguna. Aplikasi ini dirancang untuk membantu pengguna mencapai tujuan diet mereka dengan cara yang sehat dan berkelanjutan.
+**MealMind** adalah platform diet cerdas berbasis machine learning yang memberikan rekomendasi makanan, pelacakan nutrisi, dan saran aktivitas fisik secara personal sesuai kebutuhan dan preferensi pengguna. Aplikasi ini dirancang untuk membantu pengguna mencapai tujuan diet mereka dengan cara yang sehat dan berkelanjutan.
 
 ## ✨ Fitur Utama
 
